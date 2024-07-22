@@ -13,8 +13,17 @@
 - Pantalla
 - Ventilador
 - Chase
-- 
+  
 ## Componentes de Software
+- Sistemas operativos
+- Controladores de dispositivos
+- Herramientas de diagnostico
+- Herramientas de correccion y optimizacion
+- Servidores
+- Editores de texto
+- carpetas
+- archivos
+- navegadores 
 
 ### Estudiante:  Jhonier Mosquera   
 ### ID:  369010
