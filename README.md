@@ -23,7 +23,22 @@
 - Editores de texto
 - carpetas
 - archivos
-- navegadores 
+- navegadores
+
+  ## Arquitectura de un computador
+  Se puede definir como el proceso general por el cual se rigen los sistemas informaticos haciendo referencia al almacenamiento, procesamiento y el como se accede a la informacion. Entender estas arquitecturas no solo proporciona un conocimiento profundo sobre cómo funcionan las computadoras, sino que también sienta las bases para el diseño eficiente de software y hardware.
+
+   Hay 2 tipos de arquitectura de computadoras las cuales son:
+  - Arquitectura Harvard
+  - Arquitectura Von Neumann
+
+
+## Mapa Conceptual
+[link](https://miro.com/app/board/uXjVK2NSbik=/?share_link_id=858827994687)
+
+
+
+
 
 ### Estudiante:  Jhonier Mosquera   
 ### ID:  369010
