@@ -1,0 +1,13 @@
+(CICLO)
+@0
+D=M
+@1
+M=D+M
+@0
+M=M-1
+D=M
+@CICLO
+D;JGT
+(LOOP)
+@LOOP
+D;JMP
