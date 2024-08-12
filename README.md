@@ -28,7 +28,7 @@
   ## Arquitectura de un computador
   Se puede definir como el proceso general por el cual se rigen los sistemas informaticos haciendo referencia al almacenamiento, procesamiento y el como se accede a la informacion. Entender estas arquitecturas no solo proporciona un conocimiento profundo sobre cómo funcionan las computadoras, sino que también sienta las bases para el diseño eficiente de software y hardware.
 
-   Hay 2 tipos de arquitectura de computadoras las cuales son:
+   Los tipos de arquitectura de computadoras mas conocidos son:
   - Arquitectura Harvard
   - Arquitectura Von Neumann
 
